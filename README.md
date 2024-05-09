@@ -122,7 +122,7 @@ f. cuDNN SDK 8.1.0.
 
 ## Steps to run on Windows/Linux
 
-Step 1. Clone this repository: https://github.com/apoorva-01/Face-Recognition-WebApp-For-Crime-Prevention
+Step 1. Clone this repository: https://github.com/jyotiyadav-05/CN-6000-Face-Recognition-WebApp-For-Crime-Prevention-.git
 
 Step 2. Create a new virtual environment
 
