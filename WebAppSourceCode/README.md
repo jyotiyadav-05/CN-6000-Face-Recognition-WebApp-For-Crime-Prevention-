@@ -25,7 +25,7 @@ Tech Stack used in Web App:
 
 # Steps to Run Locally
 
-Step 1. Clone this repository: https://github.com/apoorva-01/Face-Recognition-WebApp-For-Crime-Prevention/tree/main/WebAppSourceCode
+Step 1. Clone this repository:https://github.com/jyotiyadav-05/CN-6000-Face-Recognition-WebApp-For-Crime-Prevention-.git
 
 Step 2. Install Node https://nodejs.org/en/
 
