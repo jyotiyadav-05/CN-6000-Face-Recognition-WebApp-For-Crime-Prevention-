@@ -10,14 +10,6 @@ The system is designed to identify suspects by comparing their facial features w
 
 
 
-## Publication
-
-The research was conducted from May 2022 - July 2022 and was associated with the <b>Indian Journal of Applied Research (IJAR)</b>.
-
-The research findings have been accepted for publication in the 1st September 2022 issue of the IJAR.
-
-<b>Link:</b> https://www.worldwidejournals.com/indian-journal-of-applied-research-(IJAR)/fileview/crime-detection-system-using-face-recognition_September_2022_2664725761_8212604.pdf
-
 
 ## Architecture
 ![Architecture](./architecture.png)
@@ -168,9 +160,6 @@ You can find it in Tensorflow/workspace/models/my_ssd_mobnet
 Step 10: Run all cells
 
 
-## Author - Apoorva Verma
+## Author - Jyoti Yadav
 
-[Resume Website](https://apoorva.igscs.in/)
 
-[![linkedin](https://img.shields.io/badge/Apoorva_Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-verma-aa045a202/)
-[![GitHub](https://img.shields.io/badge/Apoorva_Verma-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/apoorva-01/)
