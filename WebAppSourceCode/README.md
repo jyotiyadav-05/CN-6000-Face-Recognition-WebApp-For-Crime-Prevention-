@@ -6,7 +6,7 @@ This source code can be used for real time object detection by leveraging the Te
 
 Supporting Material: https://drive.google.com/file/d/1pcG-72WVB-8UwsnUoz_L73FGz-k1Bvim/view?usp=sharing
 
-Web App Link: https://frme.igscs.in/
+Web App Link: https://jyoti-face-app.vercel.app/
 
 Username: User_1
 Password: 87654321
