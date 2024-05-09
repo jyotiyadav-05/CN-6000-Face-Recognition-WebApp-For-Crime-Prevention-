@@ -8,8 +8,8 @@ Supporting Material: https://drive.google.com/file/d/1pcG-72WVB-8UwsnUoz_L73FGz-
 
 Web App Link: https://frme.igscs.in/login
 
-Username: Admin_1
-Password: 12345678
+Username: User_1
+Password: 87654321
 
 
 ML Model is deployed on cloud and fetched by web app using an API for face detection.
